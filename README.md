@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 
+- I love to learn and believe in perfection.
 - 🔭 I’m currently working on making the machines into human.
 - 🌱 I’m currently learning software automation.
 - 👯 I’m looking to collaborate on cybersecurity and artificial intalligence.
